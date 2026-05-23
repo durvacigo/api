@@ -3,6 +3,6 @@ requests
 gunicorn
 aiohttp
 websocket-client
-google-transit-realtime-bindings
+gtfs-realtime-bindings
 flask-compress
 protobuf
